@@ -4,6 +4,6 @@
 
 # I'm Ece  
 
-## 
+## turkish student
 I'm interested in creating browser based analog horror games
 learning **C#**, **Java**, and **JavaScript**.
